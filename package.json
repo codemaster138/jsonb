@@ -1,0 +1,22 @@
+{
+  "name": "json-b",
+  "version": "1.0.0",
+  "description": "Binary JSON store for easy linear traversal",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemaster138/jsonb.git"
+  },
+  "keywords": [
+    "JSON"
+  ],
+  "author": "Jake Sarjeant",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/codemaster138/jsonb/issues"
+  },
+  "homepage": "https://github.com/codemaster138/jsonb#readme"
+}
